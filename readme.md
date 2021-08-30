@@ -1,5 +1,10 @@
 # Three.js 3D Sphere
-**Live Demo🕵🏻📊🧩🔮**⮕(https://three-js-3d-sphere-rushikesh-patil.netlify.app/) </br>
+  么 [**Live Demo🕵🏻📊🧩🔮⚽️**](https://three-js-3d-sphere-rushikesh-patil.netlify.app/) </br> 
+  
+# ScreenShot
+
+![ThreeDSphere](https://user-images.githubusercontent.com/63740798/131412455-f8ab4d33-7f1e-4490-9fef-3f76e1db78da.gif)
+
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
