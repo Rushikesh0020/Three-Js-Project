@@ -1,5 +1,5 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+# Three.js 3D Sphere
+**Live Demo🕵🏻📊🧩🔮**⮕(https://three-js-3d-sphere-rushikesh-patil.netlify.app/) </br>
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
